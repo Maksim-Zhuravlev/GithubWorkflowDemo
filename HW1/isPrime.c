@@ -16,5 +16,6 @@ void main() {
 			cnt++;
 		}
 	}
+	printf("Number of primes in [2, %d] = %d", n, cnt);
 	return 0;
 }
